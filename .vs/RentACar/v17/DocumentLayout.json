@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\rentacar\\aracdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\aracdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\rentacar\\aracdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\aracdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|c:\\users\\monster\\desktop\\rent a car\\rentacar\\rentacar\\icerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\icerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\rentacar\\aracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\aracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\rentacar\\takip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\takip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\rentacar\\takip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\takip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\rentacar\\aracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\aracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\rentacar\\icerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE43805-861D-4FEC-8336-876DE4718636}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\icerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "icerik.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\icerik.cs",
+              "RelativeDocumentMoniker": "RentACar\\icerik.cs",
+              "ToolTip": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\icerik.cs",
+              "RelativeToolTip": "RentACar\\icerik.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAFoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:29:36.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AracDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\AracDetay.cs",
+              "RelativeDocumentMoniker": "RentACar\\AracDetay.cs",
+              "ToolTip": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\AracDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\AracDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:23:48.814Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AracDetay.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\AracDetay.cs",
+              "RelativeDocumentMoniker": "RentACar\\AracDetay.cs",
+              "ToolTip": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\AracDetay.cs",
+              "RelativeToolTip": "RentACar\\AracDetay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:42:52.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "aracEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\aracEkle.cs",
+              "RelativeDocumentMoniker": "RentACar\\aracEkle.cs",
+              "ToolTip": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\aracEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\aracEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:35:42.66Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "takip.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\takip.cs",
+              "RelativeDocumentMoniker": "RentACar\\takip.cs",
+              "ToolTip": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\takip.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\takip.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:46:29.127Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "takip.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\takip.cs",
+              "RelativeDocumentMoniker": "RentACar\\takip.cs",
+              "ToolTip": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\takip.cs",
+              "RelativeToolTip": "RentACar\\takip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:04:07.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "aracEkle.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\aracEkle.cs",
+              "RelativeDocumentMoniker": "RentACar\\aracEkle.cs",
+              "ToolTip": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\aracEkle.cs",
+              "RelativeToolTip": "RentACar\\aracEkle.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswMMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:35:51.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "icerik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\icerik.cs",
+              "RelativeDocumentMoniker": "RentACar\\icerik.cs",
+              "ToolTip": "C:\\Users\\monster\\Desktop\\Rent a car\\RentACar\\RentACar\\icerik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\icerik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:42:57.465Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
